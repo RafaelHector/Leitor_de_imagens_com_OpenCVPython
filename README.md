@@ -20,3 +20,4 @@ SOLUÇÃO: pip install msvc-runtime (no terminal, e em seguida, funcionou direit
 
 O site oficial para tirar qualquer dúvida: https://google.github.io/mediapipe/
 Artigo sobre o projeto desenvolvido, leitura de mão: https://google.github.io/mediapipe/solutions/hands#python-solution-api
+![Reconhecimento pela camera](https://user-images.githubusercontent.com/100971089/167451263-567545ee-acbb-4030-a385-e179802cfafd.png)
