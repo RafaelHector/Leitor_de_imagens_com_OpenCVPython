@@ -1,5 +1,5 @@
 # Leitor de imagens com OpenCV & Python 📷🤖 🐍
-Pra você que gosta daquelas técnologias de segurança sinistras do governo Chinês, e se depara com aqueles vídeos de Indianos gênios da programação no Youtube, esse tutorial é pra vôce. Esse é um tracker bem preciso e facil de se desenvolver, que utiliza a sua camêra para identificar pontos de interesse, que no caso vai ser nossas mãos, esse projeto é excelente para se ter uma noção do que é possível fazer com desenvolvimento de programação/Software. 
+Pra você que gosta daquelas técnologias de segurança sinistras do governo Chinês, e se depara com aqueles vídeos de Indianos gênios da programação no Youtube, esse tutorial é pra você. Esse é um tracker bem preciso e facil de se desenvolver, que utiliza a sua camêra para identificar pontos de interesse, que no caso vai ser nossas mãos, esse projeto é excelente para se ter uma noção do que é possível fazer com desenvolvimento de programação/Software. 
 
 Primeiro passo: instalar OpenCV
 Open CV é uma biblioteca voltada para a área de visão computacional e aprendizado de máquina.
